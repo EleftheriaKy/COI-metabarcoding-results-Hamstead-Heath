@@ -1,0 +1,1 @@
+This repository contains the results of COI (cytochrome c oxidase subunit I) metabarcoding analysis for UK species on Hampstead Heath ponds. The dataset includes taxonomic assignments and relative abundances of detected species across sampling sites.
